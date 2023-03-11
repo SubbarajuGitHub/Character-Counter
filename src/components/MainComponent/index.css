@@ -1,0 +1,54 @@
+.both-component {
+  display: flex;
+}
+.left-bar-div {
+  background-color: #ffc533;
+  max-width: 50vw;
+  min-width: 50vw;
+  height: 100vh;
+}
+.top-bg {
+  background-color: #ffbf1f;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: roboto;
+}
+.right-div {
+  background-color: #0f172a;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.heading {
+  color: #ffbf1f;
+  font-family: Roboto;
+  font-size: 30px;
+}
+.add-button {
+  background-color: #ffbf1f;
+  padding: 10px;
+  width: 100px;
+  border-color: transparent;
+  border-radius: 5px;
+}
+.input {
+  background-color: white;
+  padding: 10px;
+  width: 400px;
+  margin-right: 20px;
+}
+.ul {
+  display: flex;
+  flex-direction: column;
+}
+.alt-image {
+  height: 300px;
+  margin-left: 100px;
+  margin-top: 50px;
+}

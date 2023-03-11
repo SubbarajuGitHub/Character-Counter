@@ -1,0 +1,25 @@
+.left-bar-div {
+  background-color: #ffc533;
+  max-width: 50vw;
+  min-width: 50vw;
+  height: 100vh;
+}
+.top-bg {
+  background-color: #ffbf1f;
+  padding: 50px;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: roboto;
+}
+.div {
+  display: flex;
+  flex-direction: column;
+}
+.list-items {
+  list-style-type: none;
+  color: #0f172a;
+  font-family: roboto;
+  font-weight: bold;
+  font-size: 30px;
+}
